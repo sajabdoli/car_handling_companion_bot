@@ -8,6 +8,6 @@ In this use case, we use the manual document of the Toyota Venza car available i
 - This document is created by converting the .pdf to a text file to be used in the RAG model: [Car manual text version](https://github.com/sajabdoli/car_handling_companion_bot/blob/main/cleaned_car_manual.md) 
 
 ToDo:
-- [ ] More document cleaning is needed as there is some irrelevant and repeated information in the file.
+- [ ] More document cleaning is needed as there is some irrelevant information in the file eg. removing the indexes, and image captions and making it more structured.
 - [ ] Improve the system instructions
 - [ ] Create a set of test questions to assess the performance of the answers and detect the hallucination 
